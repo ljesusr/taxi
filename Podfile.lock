@@ -1,0 +1,16 @@
+PODS:
+  - GoogleMaps (1.12.3)
+  - IQKeyboardManager (4.0.0)
+  - MBProgressHUD (0.9.2)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - IQKeyboardManager
+  - MBProgressHUD (~> 0.9.2)
+
+SPEC CHECKSUMS:
+  GoogleMaps: a4ac67918d0b5ba5f6b9893ac80487e357779e6c
+  IQKeyboardManager: b91928f7927ba55a5829b4dcf4b7a6736ac9fc22
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+
+COCOAPODS: 0.39.0
